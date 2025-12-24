@@ -10,3 +10,4 @@ A simple console-based Snake game implemented in C++ using CMake.
 ## Building
 
 1. Navigate to the project directory:
+
